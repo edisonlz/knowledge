@@ -41,6 +41,7 @@ https://www.toutiao.com/a6732706848916374030/
 三、EOS语义
 所谓EOS语义指 Exactly Once语义，表示数据有且仅被处理一次，在常见的流数据处理场景中，都存在着这种问题（画外音：在spark的低版本中并不能保证这种语义，Flink中可以保证该语义）。
 
+PID
 sequence += 1
 
 
