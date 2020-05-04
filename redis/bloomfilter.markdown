@@ -103,3 +103,11 @@ BloomFilter的几个重要参数：
 
 
 https://blog.csdn.net/he_ranly/article/details/94433004
+
+
+# 
+https://www.toutiao.com/i6822106782794514957/
+https://redis.io/topics/sentinel
+
+http://pages.cs.wisc.edu/~cao/papers/summary-cache/node8.html
+

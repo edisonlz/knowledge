@@ -51,7 +51,8 @@ CMS算法 十个G - 三色标记算法
 
 ![g1](./imgs/g1.png)
 G1算法可以支持上百G内存(Garbage First)，逻辑分代，物理部分代
- - 三色标记  + SATB
+ - 三色标记 + SATB(Queue）
+
 ZGC - Shenandoah -- 4T
 （C4）
  - coloredPointers(着色指针)
@@ -237,3 +238,15 @@ https://www.jianshu.com/p/548c67aa1bc0
 3. zgc
 ![zgc](./img/zgc.png)
 https://www.jianshu.com/p/4e4fd0dd5d25
+
+#### G1垃圾回收期入门
+https://www.bilibili.com/video/BV1f7411o7Da?from=search&seid=6922106011344009785
+
+##### class load
+![classload](./imgs/classload.png)
+
+
+https://www.bilibili.com/video/BV1D741177rV?p=2
+![classload](./imgs/gccms.png)
+![classload](./imgs/gcall.png)
+
